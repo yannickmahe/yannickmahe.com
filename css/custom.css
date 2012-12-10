@@ -53,7 +53,7 @@ nav.primary ul li a:active, nav.primary ul li a.selected { background:; text-sha
   margin-bottom:20px; 
   cursor:pointer; 
   padding:10px; 
-  width:200px; 
+  width:198px; 
 } 
 
 
@@ -112,7 +112,7 @@ nav.primary ul li a:hover {
 
 .header{ padding:0px;}
 
-.callout{background:#f30; padding:60px 0;}
+.callout{background:#009966; padding:60px 0;}
 .section{padding:4.5% 0; border-bottom: 1px solid #CCC;}
 
 .companycallout{ margin-bottom:20px;}
@@ -143,13 +143,13 @@ h2.explain{line-height:34px;}
 .portfoliocarousel h2{font-size:12px; line-height:14px; text-transform: uppercase;}
 .portfoliocarousel p{margin:0px;}
 
-.portfolio figure{margin:0; margin-right:5px; margin-bottom:10px;}
+.portfolio figure{margin:0; margin-right:5px; margin-bottom:10px; border:thin #EEE solid;}
 
 
 /*CONTACT*/
 .contact{}
 #contact{padding-top:80px; padding-bottom:80px;}
-#contact h2,#about h2,#portfolio h2, #experience h2, #skills h2, #general-info h2{font-weight:200; text-align: center; font-size:3em; color: #f30; text-transform:uppercase; line-height:2em;}
+#contact h2,#about h2,#portfolio h2, #experience h2, #skills h2, #general-info h2{font-weight:200; text-align: center; font-size:3em; color: #009966; text-transform:uppercase; line-height:2em;}
 
 
 /*CONTACT Map*/
@@ -178,7 +178,7 @@ h2.explain{line-height:34px;}
 .about{background: #121210; color: #CBCBCB; padding:80px 0; }
 
 h1.brand a{
-  color: #F30;
+  color: #009966;
   font-weight: 300;
   font-size: 2em;
 }
