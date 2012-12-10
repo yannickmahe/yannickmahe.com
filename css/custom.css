@@ -149,7 +149,7 @@ h2.explain{line-height:34px;}
 /*CONTACT*/
 .contact{}
 #contact{padding-top:80px; padding-bottom:80px;}
-#contact h2,#about h2,#portfolio h2{font-weight:200; text-align: center; font-size:3em; color: #f30; text-transform:uppercase; line-height:2em;}
+#contact h2,#about h2,#portfolio h2, #experience h2, #skills h2, #general-info h2{font-weight:200; text-align: center; font-size:3em; color: #f30; text-transform:uppercase; line-height:2em;}
 
 
 /*CONTACT Map*/
@@ -176,3 +176,13 @@ h2.explain{line-height:34px;}
 /*ABOUT*/
 #about{padding-top:80px; margin-top:80px; margin-bottom:80px; padding-bottom:80px;}
 .about{background: #121210; color: #CBCBCB; padding:80px 0; }
+
+h1.brand a{
+  color: #F30;
+  font-weight: 300;
+  font-size: 2em;
+}
+
+td.language-name{
+  width: 100px;
+}
