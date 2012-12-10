@@ -186,3 +186,21 @@ h1.brand a{
 td.language-name{
   width: 100px;
 }
+
+li.languageLink a{
+  padding-left: 5px !important;
+  padding-right: 0px !important;
+  text-transform: none !important;
+}
+
+li.languageLink a:hover{
+  text-decoration: underline !important;
+}
+
+li.languageLink a:hover{
+  border-top: 11px solid #FFF !important;
+}
+
+li.languageLink.current a{
+  text-decoration: underline !important;
+}
